@@ -11,7 +11,7 @@ defmodule Maux.MixProject do
       elixirc_paths: elixirc_paths(Mix.env()),
       test_coverage: [
         summary: [
-          threshold: 80
+          threshold: 100
         ],
         ignore_modules: [
           Maux.Emp,
