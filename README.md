@@ -1,4 +1,3 @@
 # maux
 
-Fake ecto repo support for testing use cases in a clean architecture.
-
+Elixir helpers for testing with fake ecto repos backed by state monads.
